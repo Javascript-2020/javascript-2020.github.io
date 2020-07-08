@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎访问！
 
 You can use the [editor on GitHub](https://github.com/Javascript-2020/javascript-2020.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
