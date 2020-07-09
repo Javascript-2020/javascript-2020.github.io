@@ -23,3 +23,16 @@ video{
     top: 16%;
     -webkit-box-reflect: below 10px linear-gradient(transparent,#ffffff60);
 }
+#messageBox{
+
+    position: absolute;
+    padding: 20px;
+    width: 40vh;
+    text-align: center;
+    left: 0;
+    top: 17%;
+    transform: translateX(0%) translateY(-10%);
+    color: #ffb8b8;
+    background-color: #00000080;
+    -webkit-box-reflect: below 10px linear-gradient(transparent,#ffffff60);
+}
