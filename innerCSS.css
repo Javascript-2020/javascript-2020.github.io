@@ -1,10 +1,9 @@
-*{
-    margin-top: 0;
-    margin-left: 0;
-
+body{
     border: 0;
+    margin-left: 0;
+    margin-top: 0;
     padding: 0;
-    background-image: linear-gradient(250deg,rgb(239,71,93),rgb(225,108,150),rgb(92,179,204),rgb(49,112,167));
-    background-size: 350%;
-    animation: Animation 15s infinite;
+    background-image: linear-gradient(250deg,#e056fd,#eb4d4b,#F8EFBA,#3c40c6);
+    background-size: 400%;
+    animation: Animation 10s infinite;
 }
