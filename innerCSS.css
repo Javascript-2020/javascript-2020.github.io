@@ -7,3 +7,19 @@ body{
     background-size: 400%;
     animation: Animation 10s infinite;
 }
+
+video{
+    width: 800px;
+    height: 450px;
+}
+
+#videoBox{
+    position: absolute;
+    z-index: -10;
+    width: 800px;
+    height: 450px;
+    background-color: #000000;
+    left: 65vh;
+    top: 16%;
+    -webkit-box-reflect: below 10px linear-gradient(transparent,#ffffff60);
+}
