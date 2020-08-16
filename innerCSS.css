@@ -43,3 +43,7 @@ video{
     background-color: #00000080;
     -webkit-box-reflect: below 10px linear-gradient(transparent,#ffffff60);
 }
+
+#sheet1 ul li{
+    list-style: none;
+}

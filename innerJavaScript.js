@@ -7,6 +7,6 @@ function videoTwo() {
     document.getElementById('text').value="mu2";
 }
 function videoThree() {
-    document.getElementById('video').src="https://apd-0ce75938a07c70b19af7f8f801c23d31.v.smtcdns.com/mv.music.tc.qq.com/A24S8Fe1SuDhBHoFZdC2TqgiSwfoQYBkh-63JXFHniLA/90384DF9A486FC6E7803F2892728C52A903D2FC2FFD5833FD767AC8AEF7C03E05FD7BCC7B233606BB0F1551401B19773ZZqqmusic_default/qmmv_0a6bmmioaicvwtqnamdaobakbyfvxw3kpzavvpjkieaq4baja4hq.f9824.mp4?fname=qmmv_0a6bmmioaicvwtqnamdaobakbyfvxw3kpzavvpjkieaq4baja4hq.f9824.mp4";
+    document.getElementById('video').src="https://apd-892429ef139475e7bcfc2e8cf6f99e6b.v.smtcdns.com/mv.music.tc.qq.com/Ac5MlyUVELIY-IDj60TucfGmnVBhCZ2bPYhfxOACFuWc/00D2252C3E2A1316A59C7C30E5443E36BF3C5B4328F35F1626D847950645603E01C0927377EA1EC1094FB635B9C63874ZZqqmusic_default/qmmv_0a6b3ljbaybvctiaaehaabqdbidvbumduapx4i3jjugascyeb4aa.f9824.mp4?fname=qmmv_0a6b3ljbaybvctiaaehaabqdbidvbumduapx4i3jjugascyeb4aa.f9824.mp4";
     document.getElementById('text').value="mu3";
 }
